@@ -1,8 +1,9 @@
-# React + Vite
+# Apple website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## I made this website to strengthen my frontend skills. The tools I have used in this website are:
+### 1 React.js
+### 2 Three.js
+### 3 GSAP
+### 4 Sentry
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This is a replicate of the apples website during the release of 15 Pro.
